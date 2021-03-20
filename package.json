@@ -1,7 +1,7 @@
 {
   "name": "getting-started-with-jest",
   "version": "1.0.0",
-  "description": "",
+  "description": "Using https://github.com/valentinogagliardi/getting-started-with-jest practise of testing using Jest",
   "main": "index.js",
   "scripts": {
     "test": "jest"
@@ -11,5 +11,14 @@
   "license": "ISC",
   "devDependencies": {
     "jest": "^26.6.3"
-  }
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sarah-smith-nz/testPractise.git"
+  },
+  "bugs": {
+    "url": "https://github.com/sarah-smith-nz/testPractise/issues"
+  },
+  "homepage": "https://github.com/sarah-smith-nz/testPractise#readme"
 }
